@@ -5,8 +5,8 @@
 
 2. The transaction hash from the contract deployment (in text format).
 
-0xf046d6a2483cbbda7bec909afa098a38a1e22030ef1dd54e8e966da9b4719ba1
+0xdd86b7647d939ee461f2fae77ecad254fd879fead36b80313af13056f9f8ea0b
 
 3. The deployed contract address from the contract deployment (in text format).
 
-0x0318E960501645A9755121C6D3F42B46900FF995
+0xb232310B84c2aB1Fa68fEe4B5042f4612854DAcE
